@@ -1,9 +1,9 @@
 # Promotion-Who-Am-I-Page
 Information Ideas &amp; Rubric
 
-Suggests about how an author might represent themselves online
+# Suggests about how an author might represent themselves online
 
-Instructions
+### Instructions
 1. Copy and paste this list to your ReadMe.md file 
 2. Add addtional items you want to consider
 3. Add [x] to the ideas you have text for
@@ -11,7 +11,9 @@ Instructions
 4. Cross out items you do not want anymore
 - [ ] <del>item crossed out</del>
 
-Family and Group Ideas
+---
+
+### Family and Group Ideas
 - [ ] Nationality: ____________________
 - [ ] Ethnicity: ______________________
 - [ ] Country (i.e. image, map image)
@@ -26,7 +28,7 @@ Family and Group Ideas
 - [ ] Cultural Food (i.e. images and videos)
 - [ ] Cultural Celebrations
 
-Peraonl Ideas
+### Peraonl Ideas
 - [ ] Hobbies
 - [ ] Sports
 - [ ] Habits
@@ -48,9 +50,13 @@ Peraonl Ideas
   - [ ] Sports
 - [ ] Other ideas
 
-Life at School Ideas
+### Life at School Ideas
 - [ ] Answer: How are you involved at QE in clubs, teams, or groups?
   - [ ] For example, “hanging out with friends” is still a student group
 - [ ] How are you academic?
   - [ ] Subjects you have high grades in; subjects you enjoy "putting in extra effort"
   - [ ] Subjects you find it 'natural' to remember "everything" recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas
+
+# To Include
+
+---
