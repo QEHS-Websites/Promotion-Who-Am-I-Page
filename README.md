@@ -7,11 +7,11 @@ Instructions
 1. Copy and paste this list to your ReadMe.md file 
 2. Add addtional items you want to consider
 3. Add [x] to the ideas you have text for
-- [x]
+- [x] item added 
 4. Cross out items you do not want anymore
 
 Family and Group Ideas
-- [] Nationality: ____________________
+- [ ] Nationality: ____________________
 - [] Ethnicity: ______________________
 - [] Country (i.e. image, map image)
 - [] Flag (i.e. image)
