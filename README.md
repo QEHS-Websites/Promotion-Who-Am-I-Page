@@ -7,7 +7,7 @@ Instructions
 1. Copy and paste this list to your ReadMe.md file 
 2. Add addtional items you want to consider
 3. Add [x] to the ideas you have text for
-  - [x]
+- [x]
 4. Cross out items you do not want anymore
 
 Family and Group Ideas
