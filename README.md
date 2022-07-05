@@ -9,6 +9,7 @@ Instructions
 3. Add [x] to the ideas you have text for
 - [x] item added 
 4. Cross out items you do not want anymore
+- [ ] <del>item crossed out</del>
 
 Family and Group Ideas
 - [ ] Nationality: ____________________
